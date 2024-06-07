@@ -90,15 +90,12 @@ a {
 }
 
 /*! header start  */
-.header{
-  background-color: #ccc;
-}
 
-.navbar .share .buttons{
+.navbar .share .buttons {
   display: flex;
 }
 
-.header .share a{
+.header .share a {
   height: 5rem;
   width: 5rem;
 }
@@ -236,7 +233,7 @@ a {
   background: url(../images/gaming-1.png) no-repeat;
   background-size: cover;
   background-position: center;
-  margin-top: 14.5rem;
+  margin-top: 1.5rem;
   display: flex;
   align-items: center;
 }
@@ -460,7 +457,7 @@ a {
 }
 
 .about .row .content p {
-  font-size: 3.1rem;
+  font-size: 2.3rem;
   color: #141414;
   padding: 1rem 0;
   line-height: 1.8;
